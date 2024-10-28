@@ -1,0 +1,35 @@
+.container{
+    width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+
+
+.box{
+    width: 370px;
+    height: 300px;
+    background-color: aqua;
+    position: absolute;
+    left: -10rem;
+}
+
+
+
+.box2{
+    width: 370px;
+    height: 300px;
+    background-color: green;
+    position: absolute;
+    right: 0;
+}
+
+
+
+.box3{
+    width: 370px;
+    height: 300px;
+    background-color: red;
+    position: absolute;
+}
